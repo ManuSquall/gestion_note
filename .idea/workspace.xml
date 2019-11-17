@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17883b8d-8b22-4f34-a0ca-3a650c92314d" name="Default Changelist" comment="" />
+    <list default="true" id="17883b8d-8b22-4f34-a0ca-3a650c92314d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gestion_note/AjouterMatiere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gestion_note/ControlSaisie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gestion_note/Etudiant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gestion_note/META-INF/gestion_note.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gestion_note/Matiere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AjouterMatiere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControlSaisie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matiere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestion_note/Squall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gestion_note/Squall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Squall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Squall.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +29,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Tj8vag6e2Vqtjf7w6pbGAqZ4zY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -54,5 +75,16 @@
       <updated>1573962375913</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
